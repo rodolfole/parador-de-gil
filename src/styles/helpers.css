@@ -1,0 +1,88 @@
+._aib {
+    align-items: baseline;
+  }
+  
+  ._aic {
+    align-items: center;
+  }
+  
+  ._aife {
+      align-items: flex-end;
+  }
+  
+  ._aifs {
+    align-items: flex-start;
+  }
+  
+  ._ais {
+    align-items: start;
+  }
+  
+  ._asfe {
+    align-self: flex-end;
+  }
+  
+  ._asfs {
+    align-self: flex-start;
+  }
+  
+  ._db {
+    display: block;
+  }
+  
+  ._df {
+    display: flex;
+  }
+  
+  ._dg {
+    display: grid;
+  }
+  
+  ._dn {
+    display: none;
+  }
+  
+  ._fdc {
+    flex-direction: column;
+  }
+  
+  ._fdr {
+    flex-direction: row;
+  }
+  
+  ._jcsa {
+    justify-content: space-around;
+  }
+  
+  ._jcsb {
+    justify-content: space-between;
+  }
+  
+  ._jcse {
+    justify-content: space-evenly;
+  }
+  
+  ._jcc {
+    justify-content: center;
+  }
+  
+  ._jcfe {
+    justify-content: flex-end;
+  }
+  
+  ._jcfs {
+    justify-content: flex-start;
+  }
+  
+  ._jcr {
+    justify-content: right;
+  }
+  
+
+  ._full-w {
+    width: 100%;
+  }
+  
+  ._pointer {
+    cursor: pointer;
+  }

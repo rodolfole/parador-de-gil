@@ -1,0 +1,125 @@
+{
+  "about": {
+    "mission": "Ofertar alimentos para el tránsito de carretera, una opción asequible y de calidad para nuestros clientes.",
+    "services": [
+      {
+        "title": "Alimentos",
+        "description": ["Servicio Express y para Preparar."],
+        "icon": "bowl-food"
+      },
+      {
+        "title": "Dulcería",
+        "description": [""],
+        "icon": "candy-cane"
+      },
+      {
+        "title": "Regaderas",
+        "description": [],
+        "icon": "shower"
+      },
+      {
+        "title": "Baños",
+        "description": [],
+        "icon": "restroom"
+      }
+    ],
+    "categories": [
+      {
+        "title": "Pollo",
+        "description": [],
+        "icons": ["drumstick-bite"]
+      },
+      {
+        "title": "Res",
+        "description": [],
+        "icons": ["cow"]
+      },
+      {
+        "title": "Puerco",
+        "description": [],
+        "icons": ["piggy-bank"]
+      },
+      {
+        "title": "Mariscos",
+        "description": [],
+        "icons": ["fish", "shrimp"]
+      }
+    ],
+    "us": "Restaurante establecido en 1990, el Parador Don Gil nace cubriendo una necesidad en alimento rápido para personas cuyo trabajo está relacionado con el manejo y tránsito por carretera, ya sea para transporte de carga o pasajeros, públicos y privados. Desde entonces, el Parador Don Gil ha ido evolucionando con el mercado, ampliando su cartera de clientes a pasajeros en tránsito de manera propia en vehículo particular, así como transportistas de carga y pasajeros subcontratados para turismo y trabajo. Ofreciendo paquetes completos de alimentos, para las personas en tránsito de diferentes regiones.",
+    "vision": "Posicionarnos como la mejor opción de nuestros clientes, aumentando nuestra cartera de clientes más allá del sector de transporte de carga y pasajeros."
+  },
+  "base_url": "https://paradordegil.xyz",
+  "clients": [
+    "Turismo",
+    "Particulares",
+    "Campos Agricolas",
+    "Transporte de Carga",
+    "Transporte de Pasajeros"
+  ],
+  "contact_info": {
+    "company": "Parador Don Gil",
+    "email": "contacto@paradordegil.xyz",
+    "phone": "6959512245",
+    "web": "paradordegil.xyz"
+  },
+  "schedule": {
+    "days": {
+      "monday": [
+        {
+          "end": "",
+          "start": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "end": "",
+          "start": ""
+        }
+      ],
+      "thursday": [
+        {
+          "end": "",
+          "start": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "end": "",
+          "start": ""
+        }
+      ],
+      "friday": [
+        {
+          "end": "",
+          "start": ""
+        }
+      ],
+      "saturday": [
+        {
+          "end": "",
+          "start": ""
+        }
+      ],
+      "sunday": [
+        {
+          "end": "",
+          "start": ""
+        }
+      ]
+    }
+  },
+  "ubication": {
+    "coords": {
+      "lat": 22.7989241,
+      "lng": -105.7128447
+    },
+    "info": {
+      "address": "Carretera Internacional Tepic-mazatlan Km 172",
+      "colony": "",
+      "postal_code": "82545",
+      "reference": "",
+      "state": "Sinaloa",
+      "town": "Escuinapa"
+    }
+  }
+}

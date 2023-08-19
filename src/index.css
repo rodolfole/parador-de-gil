@@ -1,0 +1,10 @@
+/* a._active-item {
+    color: red;
+    border-bottom: 3px solid white;
+} */
+
+@media ((min-width: 900px) and (max-width: 1044px)) {
+    .__heroBg {
+      width: 650px !important;
+    }
+  }
